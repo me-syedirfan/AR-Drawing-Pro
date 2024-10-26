@@ -1,0 +1,84 @@
+{
+    "examples": [
+        {
+            "prompt": "Medium portrait shot of a golden retriever.",
+            "path": "assets/images/Examples/16.webp"
+        },
+        {
+            "prompt": "A portrait of British cat with blue eyes and heart sunglasses.",
+            "path": "assets/images/Examples/10.webp"
+        },
+        {
+            "prompt": "Drawing of a beautiful princess sitting on chair.",
+            "path": "assets/images/Examples/6.webp"
+        },
+        {
+            "prompt": "Sketch of a coffee cup.",
+            "path": "assets/images/Examples/2.webp"
+        },
+        {
+            "prompt": "Easy to draw portrait of beautiful school girl.",
+            "path": "assets/images/Examples/8.webp"
+        },
+        {
+            "prompt": "Drawing of a samurai holding a sword.",
+            "path": "assets/images/Examples/5.webp"
+        },
+        {
+            "prompt": "Drawing of a Porsche 911 with white background.",
+            "path": "assets/images/Examples/19.webp"
+        },
+        {
+            "prompt": "Easy drawing of a tree with white background.",
+            "path": "assets/images/Examples/7.webp"
+        },
+        {
+            "prompt": "Drawing of a vintage car.",
+            "path": "assets/images/Examples/15.webp"
+        },
+        {
+            "prompt": "A green Porsche 911 with white background.",
+            "path": "assets/images/Examples/18.webp"
+        },
+        {
+            "prompt": "Portrait of a cute boy wearing a hat.",
+            "path": "assets/images/Examples/14.webp"
+        },
+        {
+            "prompt": "A drawing of a trail on a hill.",
+            "path": "assets/images/Examples/3.webp"
+        },
+        {
+            "prompt": "Easy to draw portrait of beautiful girl.",
+            "path": "assets/images/Examples/12.webp"
+        },
+        {
+            "prompt": "Beautiful girl with black hair.",
+            "path": "assets/images/Examples/20.webp"
+        },
+        {
+            "prompt": "Masculine man portrait.",
+            "path": "assets/images/Examples/1.webp"
+        },
+        {
+            "prompt": "Portrait of masculine man with black hair.",
+            "path": "assets/images/Examples/13.webp"
+        },
+        {
+            "prompt": "Drawing of a simple castle.",
+            "path": "assets/images/Examples/17.webp"
+        },
+        {
+            "prompt": "Drawing of a plane in empty blue sky.",
+            "path": "assets/images/Examples/0.webp"
+        },
+        {
+            "prompt": "A pink cloud with blue sky.",
+            "path": "assets/images/Examples/9.webp"
+        },
+        {
+            "prompt": "Drawing of a moon in dark sky.",
+            "path": "assets/images/Examples/4.webp"
+        }
+    ]
+}

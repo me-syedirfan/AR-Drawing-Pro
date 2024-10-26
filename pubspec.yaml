@@ -1,0 +1,168 @@
+name: ardrawing_pro
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.1.1
+  firebase_messaging: ^15.0.2
+  firebase_analytics: ^11.1.0
+  firebase_in_app_messaging: ^0.8.0+2
+  firebase_crashlytics: ^4.0.2
+  firebase_remote_config: ^5.0.2
+  firebase_database: ^11.0.4
+  firebase_performance: ^0.10.0+4
+  # App
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.1
+  wakelock: ^0.6.2
+  share_extend: ^2.0.0
+  internet_connection_checker: ^1.0.0+1
+  palestine_first_run: ^0.0.14
+  flutter_svg: ^2.0.9
+  path_provider: ^2.1.3
+  cached_network_image: ^3.3.1
+  gallery_saver: ^2.3.2
+  permission_handler: ^11.3.1
+  audioplayers: ^6.0.0
+  shared_preferences: ^2.2.3
+  video_thumbnail: ^0.5.3
+  open_filex: ^4.4.0
+  url_launcher: ^6.3.0
+  in_app_review: ^2.0.9
+  video_player: ^2.9.1
+  image_picker: ^1.1.2
+  camera: ^0.11.0+2
+  mesh_gradient: ^1.3.7
+  flutter_local_notifications: ^17.2.1+1
+  flutter_datetime_picker_plus: ^2.2.0
+  rxdart: ^0.27.5
+  http: ^0.13.6
+  timezone: ^0.9.4
+  visibility_detector: ^0.4.0+2
+  shimmer: ^3.0.0
+  custom_navigation_bar: ^0.8.2
+  ionicons: ^0.2.2
+  gradient_borders: ^1.0.1
+  intl: ^0.19.0
+  lottie: ^3.0.0
+  image_gallery_saver: ^2.0.3
+  scroll_loop_auto_scroll: ^0.0.5
+  profanity_filter: ^2.0.0
+  screen_brightness: ^1.0.1
+  in_app_update: ^4.2.3
+  package_info_plus: ^3.1.2
+  simple_animation_progress_bar: ^1.8.2
+  enhanced_gradients: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/audios/
+    - assets/images/
+    - assets/videos/
+    - assets/animations/
+    - assets/images/Examples/
+    - assets/images/Thumbnails/
+    - assets/images/Styles/
+    - assets/images/Review/
+    - assets/data/
+
+  fonts:
+    - family: dazzle
+      fonts: 
+        - asset: assets/fonts/dazzle_bold.otf
+    - family: urbanist
+      fonts: 
+        - asset: assets/fonts/urbanist_regular.ttf
+        - asset: assets/fonts/urbanist_black.ttf
+          weight: 900
+        - asset: assets/fonts/urbanist_medium.ttf
+          weight: 500
+    - family: a
+      fonts: 
+        - asset: assets/fonts/0.ttf
+    - family: b
+      fonts: 
+        - asset: assets/fonts/1.ttf
+    - family: c
+      fonts: 
+        - asset: assets/fonts/2.ttf
+    - family: d
+      fonts: 
+        - asset: assets/fonts/3.ttf
+    - family: e
+      fonts: 
+        - asset: assets/fonts/4.ttf
+    - family: f
+      fonts: 
+        - asset: assets/fonts/5.ttf
+    - family: g
+      fonts: 
+        - asset: assets/fonts/6.ttf
+    - family: h
+      fonts: 
+        - asset: assets/fonts/7.ttf
+    - family: i
+      fonts: 
+        - asset: assets/fonts/8.ttf
+    - family: j
+      fonts: 
+        - asset: assets/fonts/9.ttf
+    - family: k
+      fonts: 
+        - asset: assets/fonts/10.ttf
+    - family: l
+      fonts: 
+        - asset: assets/fonts/11.ttf
+    - family: m
+      fonts: 
+        - asset: assets/fonts/12.ttf
+    - family: n
+      fonts: 
+        - asset: assets/fonts/13.ttf
+    - family: o
+      fonts: 
+        - asset: assets/fonts/14.ttf
+    - family: p
+      fonts: 
+        - asset: assets/fonts/15.ttf
+    - family: q
+      fonts: 
+        - asset: assets/fonts/16.ttf
+    - family: r
+      fonts: 
+        - asset: assets/fonts/17.ttf
+    - family: s
+      fonts: 
+        - asset: assets/fonts/18.ttf
+    - family: t
+      fonts: 
+        - asset: assets/fonts/19.ttf
+    - family: u
+      fonts: 
+        - asset: assets/fonts/20.ttf
+    - family: v
+      fonts: 
+        - asset: assets/fonts/21.ttf
+    - family: w
+      fonts: 
+        - asset: assets/fonts/22.ttf
+    - family: x
+      fonts: 
+        - asset: assets/fonts/23.ttf

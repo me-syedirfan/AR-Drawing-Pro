@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "848258502362",
+    "firebase_url": "https://ar-drawing-a3110-default-rtdb.firebaseio.com",
+    "project_id": "ar-drawing-a3110",
+    "storage_bucket": "ar-drawing-a3110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848258502362:android:8d1b2a3dc085fdff219fe3",
+        "android_client_info": {
+          "package_name": "com.osdifa.ardrawing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dWWD01uoCXmtyaQNd4E5wylU5tkHXKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-8952250357171487~9229925084"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848258502362:android:8e3ec69ce88cd37c219fe3",
+        "android_client_info": {
+          "package_name": "com.osdifa.ardrawing_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dWWD01uoCXmtyaQNd4E5wylU5tkHXKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
