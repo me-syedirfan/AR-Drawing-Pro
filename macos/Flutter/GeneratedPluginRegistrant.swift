@@ -20,7 +20,7 @@ import path_provider_foundation
 import screen_brightness_macos
 import shared_preferences_foundation
 import simple_animation_progress_bar
-import sqflite_darwin
+import sqflite
 import url_launcher_macos
 import video_player_avfoundation
 import wakelock_macos
